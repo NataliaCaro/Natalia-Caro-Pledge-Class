@@ -20,8 +20,8 @@ const profileData: ProfileData = {
     "I love to learn.",
     "Natalia Caro :)",
   ],
-  graduatingClass: 2025,
-  majorMinor: "B.A. in Computer Science, Minor in Economics",
+  graduatingClass: 2027,
+  majorMinor: "B.A. in Business Administration, Minor in Advertising",
   websiteHref: "https://github.com/wderocco8",
   imgSrc: "/images/profile/profile.jpeg",
   currentPosition: "Teaching Assistant for cs412 (Full-Stack Applications)"
